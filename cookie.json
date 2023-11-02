@@ -1,0 +1,28 @@
+[
+    {
+      "cookieName": "cupcake",
+      "priceInCents": "6.00",
+      "inStock": true
+    },
+    {
+      "cookieName": "monster",
+      "priceInCents": "5.00",
+      "inStock": false
+    },
+    {
+      "cookieName": "valentine",
+      "priceInCents": "5.00",
+      "inStock": true
+    },
+    {
+      "cookieName": "fourth of july",
+      "priceInCents": "6.00",
+      "inStock": true
+    },
+    {
+      "cookieName": "elf",
+      "priceInCents": "5.00",
+      "inStock": false
+    }
+    
+  ]
